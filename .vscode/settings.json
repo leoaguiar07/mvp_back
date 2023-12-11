@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "database": "mercado_livre_energia",
+            "username": "postgres",
+            "name": "ML_Energia"
+        }
+    ]
+}
