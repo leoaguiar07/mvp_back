@@ -6,7 +6,6 @@ from sqlalchemy.exc import IntegrityError
 from unidecode import unidecode
 from model import Session, Regiao, Operadora, Consulta
 
-
 from logger import logger
 from schemas import *
 # from schemas import regiao_
