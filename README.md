@@ -9,7 +9,7 @@ Pesquisando inúmeros sites, verifiquei que não era possível ter uma noção d
 todos exibiam um formulário onde o usuário deveria informar seus dados pessoais 
 para um posterior contato.<br>
 
-a página desenvolovida permite que os usuários possam simular a sua redução de gasto, atráves de um simulador. Informando Nome, Celular, Região, Operadora e o valor atual da conta de energia. Tendo como resultado os dados do gasto simulado, percentual e valor de  da economia.<br>
+A página desenvolovida permite que os usuários possam simular a sua redução de gasto, atráves de um simulador. Tendo como resultado os dados do gasto simulado, percentual e valor de  da economia.<br>
 
 * Valores utilizados para cálculo de economia são aproximados e foram obtidos através de pesquisas na internet, os mesmos podem ser alterados.
 
