@@ -1,8 +1,6 @@
 # Mercado Livre de Energia - API
 
-Em setembro de 2022, o governo federal publicou uma portaria que permite a migração de todos os 
-consumidores ligados em alta tensão para o Mercado Livre de Energia. A partir de janeiro de 2024,
-qualquer tipo de negócio, como padaria ou restaurante, poderão ser beneficiados.
+A partir de janeiro de 2024, qualquer tipo de negócio, como padaria ou restaurante, poderá ser beneficiado com o mercado livre de energia.
 
 Os preços de aquisição de energia são menores no mercado livre.
 Os fornecedores e consumidores negociam as condições de compra e venda de energia. 
