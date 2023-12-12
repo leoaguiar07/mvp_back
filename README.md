@@ -1,4 +1,4 @@
-# Mercado Livre de Energia - API
+# Mercado Livre de Energia - API 
 
 A partir de janeiro de 2024, qualquer tipo de negócio, como padaria ou restaurante, poderá ser beneficiado com o mercado livre de energia.
 
