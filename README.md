@@ -4,7 +4,6 @@ A partir de janeiro de 2024, qualquer tipo de negócio, como padaria ou restaura
 
 Os preços de aquisição de energia são menores no mercado livre.
 Os fornecedores e consumidores negociam as condições de compra e venda de energia. 
-Fatores como preços, prazos, fonte da geração e flexibilidades são discutidos entre as duas partes.
 
 Pesquisando inúmeros sites, verifiquei que não era possível ter uma noção da redução de gasto, 
 todos exibiam um formulário onde o usuário deveria informar seus dados pessoais 
