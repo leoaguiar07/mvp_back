@@ -7,9 +7,9 @@ Os fornecedores e consumidores negociam as condições de compra e venda de ener
 
 Pesquisando inúmeros sites, verifiquei que não era possível ter uma noção da redução de gasto, 
 todos exibiam um formulário onde o usuário deveria informar seus dados pessoais 
-e de sua conta de energia para um posterior contato.<br>
+para um posterior contato.<br>
 
-Com isso a página permite que os usuários possam simular a sua redução de gasto com sua conta de energia elétrica, atráves de um simulador. Informando Nome, Celular, Região, Operadora e o valor atual da conta de energia. Tendo como resultado o gasto simulado, percentual de economia e valor da economia.<br>
+a página desenvolovida permite que os usuários possam simular a sua redução de gasto, atráves de um simulador. Informando Nome, Celular, Região, Operadora e o valor atual da conta de energia. Tendo como resultado os dados do gasto simulado, percentual e valor de  da economia.<br>
 
 * Valores utilizados para cálculo de economia são aproximados e foram obtidos através de pesquisas na internet, os mesmos podem ser alterados.
 
