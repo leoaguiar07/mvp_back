@@ -7,7 +7,7 @@ Os preços de aquisição de energia são menores no mercado livre.
 Pesquisando inúmeros sites, verifiquei que não era possível ter uma noção da redução de gasto, 
 todos exibiam um formulário solicitando informações do usuário.<br>
 
-A página desenvolovida permite que os usuários possam simular a sua redução de gasto, atráves de um simulador. Tendo como resultado os dados do gasto simulado, percentual e valor de  da economia.<br>
+A página desenvolvida permite que os usuários possam simular a sua redução de gasto, atráves de um simulador. Tendo como resultado o gasto simulado, percentual e valor de  da economia.<br>
 
 * Valores utilizados para cálculo de economia são aproximados e foram obtidos através de pesquisas na internet, os mesmos podem ser alterados.
 
